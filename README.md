@@ -12,38 +12,11 @@ Backend Developer • AI Automation • Python Engineering
 
 </div>
 
----
+## About Me
 
-# 🚀 About Me
+Backend Developer focused on building automation workflows, scalable APIs, and AI-assisted systems.
 
-```python
-class Shrenik:
-
-    location = "Mumbai, India"
-
-    current_focus = [
-        "Backend Development",
-        "AI Automation",
-        "OCR Pipelines",
-        "REST APIs"
-    ]
-
-    tech_stack = [
-        "Python",
-        "Flask",
-        "Node.js",
-        "MongoDB",
-        "AWS"
-    ]
-
-    currently_learning = [
-        "Scalable System Design",
-        "AI Workflows",
-        "Cloud Architecture"
-    ]
-```
-
----
+Currently working with Python, Flask, Node.js, MongoDB, and AWS while exploring backend architecture and intelligent automation solutions.
 
 # ⚡ Tech Stack
 
