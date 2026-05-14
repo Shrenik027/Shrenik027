@@ -139,3 +139,9 @@ JavaScript • APIs • HTML/CSS
 [![Gmail](https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail)](mailto:shrenik9477@gmail.com)
 
 </div>
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Shrenik027/Shrenik027/output/github-contribution-grid-snake.svg"/>
+</p>
