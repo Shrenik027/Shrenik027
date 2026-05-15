@@ -3,7 +3,7 @@ Hi 👋 I'm Shrenik Dubal
 </h1>
 
 <h3 align="center">
-Backend Developer • AI Automation • Python Engineering
+Software Developer • AI Automation • Python Engineering
 </h3>
 
 <div align="center">
@@ -14,52 +14,132 @@ Backend Developer • AI Automation • Python Engineering
 
 ## About Me
 
-Backend Developer focused on building automation workflows, scalable APIs, and AI-assisted systems.
-
-Currently working with Python, Flask, Node.js, MongoDB, and AWS while exploring backend architecture and intelligent automation solutions.
-
-# ⚡ Tech Stack
-
 <div align="center">
 
-![Python](https://skillicons.dev/icons?i=python)
-![Flask](https://skillicons.dev/icons?i=flask)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Git](https://skillicons.dev/icons?i=git)
-![Linux](https://skillicons.dev/icons?i=linux)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Postman](https://skillicons.dev/icons?i=postman)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+<table>
+<tr>
+<td width="85%">
+
+Software Developer focused on building automation workflows, scalable applications, and AI-assisted systems.
+
+Currently working with Python, Flask, Node.js, MongoDB, and AWS while exploring software architecture and intelligent automation solutions.
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
-
-# 📊 GitHub Dashboard
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrenik027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<table>
+<tr>
+<td align="center" width="90">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shrenik027&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://skillicons.dev/icons?i=python" width="45"/><br>
+Python
+
+</td>
+
+<td align="center" width="90">
+
+<img src="https://skillicons.dev/icons?i=javascript" width="45"/><br>
+JavaScript
+
+</td>
+
+<td align="center" width="90">
+
+<img src="https://skillicons.dev/icons?i=flask" width="45"/><br>
+Flask
+
+</td>
+
+<td align="center" width="90">
+
+<img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>
+Node.js
+
+</td>
+
+<td align="center" width="90">
+
+<img src="https://skillicons.dev/icons?i=express" width="45"/><br>
+Express
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="90">
+
+<img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>
+MongoDB
+
+</td>
+
+<td align="center" width="90">
+
+<img src="https://skillicons.dev/icons?i=git" width="45"/><br>
+Git
+
+</td>
+
+<td align="center" width="90">
+
+<img src="https://skillicons.dev/icons?i=github" width="45"/><br>
+GitHub
+
+</td>
+
+<td align="center" width="90">
+
+<img src="https://skillicons.dev/icons?i=linux" width="45"/><br>
+Linux
+
+</td>
+
+<td align="center" width="90">
+
+<img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>
+VS Code
+
+</td>
+
+</tr>
+</table>
 
 </div>
+
+## GitHub Dashboard
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrenik027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrenik027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shrenik027&theme=tokyonight&hide_border=true&background=0d1117"/>
 
 </div>
 
----
+<br>
 
-# 📈 Contribution Graph
+<div align="center">
 
-[![Shrenik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shrenik027&theme=tokyo-night)](https://github.com/Shrenik027)
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrenik027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
----
+</div>
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrenik027&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+
+</div>
 
 # 🚀 Featured Projects
 
